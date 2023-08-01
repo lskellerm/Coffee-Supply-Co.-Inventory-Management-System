@@ -1,4 +1,4 @@
-# **Coffee Supply Co. Intenvtory Management
+# Coffee Supply Co. Intenvtory Management
 ## Semester Group Project For CSC 455 - Database Design and Implementation (Capstone)
 ## <u>Role:</u> 
 - Lead Developer, Tasked with implementing both the front-end and back-end code as well as ensuring efficient database design to meet project and system requirements
